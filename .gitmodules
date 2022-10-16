@@ -1,0 +1,3 @@
+[submodule "bibliographya-backend"]
+	path = bibliographya-backend
+	url = https://github.com/saidgadjiev/bibliographya-backend
