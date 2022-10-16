@@ -1,3 +1,9 @@
 [submodule "bibliographya-backend"]
 	path = bibliographya-backend
 	url = https://github.com/saidgadjiev/bibliographya-backend
+[submodule "bibliographya-frontend"]
+	path = bibliographya-frontend
+	url = https://github.com/saidgadjiev/bibliographya-frontend
+[submodule "bibliographya-pusher"]
+	path = bibliographya-pusher
+	url = https://github.com/saidgadjiev/bibliographya-pusher
